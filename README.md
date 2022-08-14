@@ -1,1 +1,3 @@
 # odin-recipes
+It's time to put all of the HTML knowledge I have acquired so far put into practice. In this project i am going to build a basic recipe website.
+The website will consist of a main index page which will have links tto a few recipes. The website won't look verry pretty by the time you've finished. This project is just to build my HTML chops; Ill revisit this website to style it with CSS.
